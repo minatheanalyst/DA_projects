@@ -1,0 +1,131 @@
+Case Study Promo Code Usage & Customer Retention Analysis for Café Business
+Executive Summary (Updated)
+
+    Average Revenue Per Transaction €3.03 — solid performance for a café offering both quick snacks and mid-range meals.
+
+    Top-Selling Items Avocado Toast, Smoothies and Cold Brew dominate both revenue and volume.
+
+    Underperforming Items Matcha Latte, Macchiato, and Energy Ball rank low in sales, suggesting a need for promotional or product positioning support.
+
+    Net Revenue €20,946 — indicative of consistent performance and reliable customer flow.
+
+    Popular Bundles Strong-performing combinations include
+
+        Granola Bar + Smoothie
+
+        Avocado Toast + Cold Brew
+
+        Cookie + Tea
+        These bundles reveal clear cross-category buying behavior and opportunities to anchor new promotions.
+
+    Payment Preferences Card payments lead both in usage and in average tips, followed by cash, with MobilePay growing steadily.
+
+    Promo Code Usage Only 26% of transactions involve promo codes. However, those that do often include more items and produce higher tips (11–12% vs. 10.4% without).
+
+    Category Highlights Coffee-based drinks generate the most revenue overall, while savory items have the highest average item revenue (€4.19), making them valuable despite lower sales volume.
+
+Key Insights
+1. Retention Is Experience-Driven, Not Promo-Driven
+
+74% of transactions don’t use promo codes — yet repeat visits and spend remain high. This points to product quality, atmosphere, and service as the main drivers of customer loyalty.
+Promo codes like LOYAL10 and WEEKEND5 contribute marginal gains but don’t drive repeat behavior on their own.
+2. Promo Code Transactions Show Higher Engagement
+
+Customers using promo codes tend to
+
+    Purchase slightly more items per visit (~1.38 vs. 1.35).
+
+    Leave larger tips on average.
+
+    Occasionally use non-revenue generating codes (like FREEDRINK), likely tied to loyalty rewards or special campaigns.
+
+3. Underutilized Promo Opportunities
+
+Promo codes are mostly used with Coffee-Based and Baked Goods categories.
+Savory Foods and Snacks are under-targeted, despite being high-margin items. Promo codes and bundles could drive interest here.
+Customer Segmentation & Strategic Leverage
+Segment Profiles
+
+    High-Value, Frequent Customers Reliable revenue drivers. Retain through exclusive early access to new products, loyalty perks, and recognition-based incentives.
+
+    Mid-Value, Regular Customers Big opportunity. They're consistent but not maximizing spend.
+
+        What to do Offer tiered loyalty rewards that unlock discounts, free items, or bonus points after specific spend thresholds.
+
+        Example “Spend €20 this month, get a free Avocado Toast next visit.”
+
+    High-Value, Infrequent Customers They love the café but don’t come often.
+
+        Re-engage with time-sensitive offers (e.g., “We miss you — enjoy a free Cold Brew this weekend”).
+
+    Low-Value, Frequent Customers Loyal but low spend.
+
+        Increase basket size with simple upsell prompts “Add a Cookie for €1 with any drink.”
+
+Product Acceleration Strategy Promote the Underperformers
+Goal Increase visibility and sales of items like Matcha Latte, Macchiato, and Energy Ball.
+Action Plan
+
+    Pair them with best-sellers
+
+        “Green Boost Combo” Matcha Latte + Granola Bar at a discount.
+
+        “Afternoon Energy Deal” Energy Ball + Cold Brew.
+
+        “Mini Macchiato Morning” Macchiato + Cookie, targeted at light spenders.
+
+    Use Top Customer Segments to Drive Trial
+
+        Offer exclusive limited-time bundles to mid-value customers via loyalty program emails.
+
+        Example “New combo just for you Matcha Latte + any pastry for €4.50.”
+
+    Run Time-Based Experiments
+
+        Promote underperformers during slower hours.
+
+        Example “2–4 PM Calm Hour — 20% off Matcha Latte with any purchase.”
+
+    Menu Engineering
+
+        Redesign in-store and digital menus to highlight these bundles with visuals and suggested pairings. Position them next to top performers to drive cross-sell.
+
+Loyalty Program Enhancement
+
+To increase customer lifetime value and shift mid-tier spenders into high-value territory
+
+    Tiered Reward System
+
+        Entry Level 1 point per €1, unlock free Cookie at 30 points
+
+        Silver Level Early access to promos, free drink on birthday
+
+        Gold Level Exclusive bundle discounts, first access to new menu items
+
+    Digital Tracking & Engagement
+
+        Enable customers to track points via receipt QR codes or an app.
+
+        Offer bonus points for off-peak visits, trying new products, or leaving feedback.
+
+    Experience-Based Rewards
+
+        Host occasional “Loyalty Members-Only” tastings for new items.
+
+        Reward top customers with personalized offers (e.g., “Your favorite smoothie is 50% off this week”).
+
+Cross-Selling & Marketing Activation
+
+    In-Store Nudges Train staff to suggest bundles (e.g., “Would you like to add a Granola Bar for €2 with your Smoothie”)
+
+    POS System Prompts Automatically suggest upgrades or bundles when certain items are selected.
+
+    Visual Merchandising Feature bundles like “Avocado Toast + Cold Brew” or “Cookie + Tea” on counter signage and takeaway bags.
+
+    Email & Social Campaigns
+
+        “Try something new” series Promote Matcha or Macchiato with influencer-style visuals.
+
+        “Fan Favorites” Showcase top bundles each month and encourage check-ins with rewards.
+
+This strategy focuses on accelerating the café’s underperforming products while deepening customer loyalty and increasing overall revenue. By bundling slower items like Matcha Latte and Energy Ball with top-sellers, we drive trial through value and familiarity. Targeted loyalty perks for mid-tier customers — like time-based offers, personalized bundles, and a tiered rewards system — are designed to shift them into high-value behavior. Enhanced menu design, in-store nudges, and POS prompts support cross-selling, while email and social campaigns bring these strategies to life beyond the café. Altogether, this is a human-centric, data-informed growth plan built to optimize both the customer experience and the bottom line.
