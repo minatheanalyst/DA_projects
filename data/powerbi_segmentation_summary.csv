@@ -1,0 +1,9 @@
+SpendSegment,FreqSegment,Customers,Total_Revenue,Transactions
+High Value,Frequent,139,8379.9225,1909
+High Value,Regular,31,1646.285,295
+Low Value,Frequent,6,183.51,68
+Low Value,Occasional,95,2193.375,543
+Low Value,Regular,64,1880.5875,551
+Mid Value,Frequent,64,2716.7875,750
+Mid Value,Occasional,13,477.7725,91
+Mid Value,Regular,88,3468.1225,793
