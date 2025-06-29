@@ -141,5 +141,4 @@ Units Sold = COUNTROWS('Transactions')
 
 	- Predictive churn modeling
 	- Weekday vs. weekend behavior analysis
-	- Demographic segmentation (pending data availability)
 	- Integration with email marketing engagement data
