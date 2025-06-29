@@ -1,5 +1,5 @@
 Case Study Promo Code Usage & Customer Retention Analysis for Café Business
-Executive Summary (Updated)
+Executive Summary (POS data with thoughtfully constructed simulations)
 
     Average Revenue Per Transaction €3.03 — solid performance for a café offering both quick snacks and mid-range meals.
 
@@ -18,24 +18,22 @@ Executive Summary (Updated)
         Cookie + Tea
         These bundles reveal clear cross-category buying behavior and opportunities to anchor new promotions.
 
-    Payment Preferences Card payments lead both in usage and in average tips, followed by cash, with MobilePay growing steadily.
+    Payment Preferences Card payments lead both in usage, followed by cash, with MobilePay growing steadily.
 
-    Promo Code Usage Only 26% of transactions involve promo codes. However, those that do often include more items and produce higher tips (11–12% vs. 10.4% without).
+    Promo Code Usage Only 26% of transactions involve promo codes.
 
     Category Highlights Coffee-based drinks generate the most revenue overall, while savory items have the highest average item revenue (€4.19), making them valuable despite lower sales volume.
 
 Key Insights
 1. Retention Is Experience-Driven, Not Promo-Driven
 
-74% of transactions don’t use promo codes — yet repeat visits and spend remain high. This points to product quality, atmosphere, and service as the main drivers of customer loyalty.
+74% of transactions don’t use promo codes - yet repeat visits and spend remain high. This points to product quality, atmosphere, and service as the main drivers of customer loyalty.
 Promo codes like LOYAL10 and WEEKEND5 contribute marginal gains but don’t drive repeat behavior on their own.
 2. Promo Code Transactions Show Higher Engagement
 
 Customers using promo codes tend to
 
     Purchase slightly more items per visit (~1.38 vs. 1.35).
-
-    Leave larger tips on average.
 
     Occasionally use non-revenue generating codes (like FREEDRINK), likely tied to loyalty rewards or special campaigns.
 
